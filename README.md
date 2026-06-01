@@ -16,7 +16,7 @@ Teachers manage lessons and attendance, parents track results via Telegram bot, 
 ### Stack
 
 **Backend** — Python · Django · DRF · PostgreSQL · Redis · Celery  
-**Frontend** — Next.js · TypeScript · Tailwind CSS  
+**Frontend** — TypeScript · Tailwind CSS  
 **Mobile** — Flutter  
 **Infra** — Docker · Nginx · GitHub Actions
 
@@ -24,7 +24,7 @@ Teachers manage lessons and attendance, parents track results via Telegram bot, 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [alochi](https://github.com/rusthype/alochi) | Main monorepo — backend, panel, student frontend | Django · Next.js |
+| [alochi](https://github.com/rusthype/alochi) | Main monorepo — backend, panel, student frontend | Python · Django · TypeScript |
 | [@alochipoll_bot](https://t.me/alochipoll_bot) | Telegram bot for parents & teachers | Python · Aiogram |
 
 ---
