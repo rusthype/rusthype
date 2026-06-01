@@ -1,26 +1,25 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdulhamid+Rustamov;Full-Stack+Developer;Building+Alochi+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdulhamid+Rustamov;Full-Stack+Developer;Building+Alochi+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
 
 <p>
   <a href="https://alochi.org"><img src="https://img.shields.io/badge/alochi.org-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:rustamovabdulhamid976@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/rusthype"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/alochipoll_bot"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 </div>
 
 ---
 
-### About me
+### About
 
-I'm a full-stack developer based in **Tashkent, Uzbekistan**, building [**Alochi**](https://alochi.org) — an education platform for schools across Uzbekistan.
+I'm a full-stack developer based in **Tashkent, Uzbekistan**, building **Alochi** — an education platform for schools across Uzbekistan.
 
 - Teachers schedule lessons, track attendance, and assign homework
 - Parents follow their child's progress via Telegram bot
 - Admins get real-time school-wide analytics
+- 66+ students, 31+ groups, 1000+ bot users
 
 ---
 
@@ -44,10 +43,10 @@ I'm a full-stack developer based in **Tashkent, Uzbekistan**, building [**Alochi
 
 ---
 
-### Projects
+### Featured Project
 
-<a href="https://github.com/rusthype/alochi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rusthype&repo=alochi&theme=dark&hide_border=true" />
+<a href="https://github.com/rusthype/Translator_bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rusthype&repo=Translator_bot&theme=dark&hide_border=true" />
 </a>
 
 ---
