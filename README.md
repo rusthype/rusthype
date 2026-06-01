@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Python+Backend+Engineer;Building+production+systems+in+Uzbekistan;Django+%C2%B7+Aiogram+%C2%B7+Flutter+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Python+Backend+Engineer;Django+%C2%B7+Flutter+%C2%B7+Next.js+%C2%B7+Aiogram;Building+Alochi+%E2%80%94+Education+Platform" alt="Typing SVG" />
 
 </div>
 
@@ -8,16 +8,14 @@
 
 ## Hi, I'm Abdulhamid 👋
 
-I'm a backend-focused software engineer from **Tashkent, Uzbekistan**. I build production systems end-to-end — from Django APIs and Telegram bots to Next.js dashboards and Flutter apps.
-
-Currently focused on **[Alochi](https://alochi.org)** — a school management and gamified learning platform serving Uzbekistan's education system.
+Backend-focused engineer from **Tashkent, Uzbekistan** — I build production systems end-to-end: Django REST APIs, Telegram bots, Next.js dashboards, and Flutter mobile apps.
 
 ```python
 developer = {
     "name":     "Abdulhamid Rustamov",
     "location": "Tashkent, Uzbekistan 🇺🇿",
     "role":     "Python Backend Engineer",
-    "building": "Alochi — education platform",
+    "building": "Alochi — school management & gamified learning",
     "stack":    ["Python", "Django", "TypeScript", "Flutter", "Aiogram"],
     "contact":  "rustamovabdulhamid976@gmail.com",
 }
@@ -27,36 +25,37 @@ developer = {
 
 ## What I'm Building
 
-**[Alochi](https://alochi.org)** is a full-stack education platform with:
+**[Alochi](https://alochi.org)** — a full-stack education platform serving schools across Uzbekistan.
 
-- 🏫 **School management** — lessons, attendance, homework, grading
-- 🎮 **Gamification** — XP, coins, leaderboard, shop, challenges
-- 📱 **Telegram bot** — parents track their child's progress in real time
-- 🤖 **AI service** — powered by FastAPI + Groq
-- 📊 **Admin panel** — real-time analytics for school administrators
+| Component | Stack | Description |
+|---|---|---|
+| 🏫 **Backend API** | Django 5 · DRF · Celery | Lessons, attendance, homework, grading |
+| 🎮 **Student App** | Next.js · Flutter | Gamified learning — XP, coins, leaderboard, shop |
+| 📱 **Teacher App** | Flutter · Dart | Schedule, grade, and notify — all from mobile |
+| 🤖 **Telegram Bot** | Aiogram 3 · SQLAlchemy | Parents track their child's progress in real time |
+| 🧠 **AI Service** | FastAPI · Groq | Smart recommendations and automated feedback |
+| 📊 **Admin Panel** | Next.js · TypeScript | Real-time analytics for school administrators |
 
-> Live at [alochi.org](https://alochi.org) · [app.alochi.org](https://app.alochi.org) · [@alochipoll_bot](https://t.me/alochipoll_bot)
+> **Live:** [alochi.org](https://alochi.org) · [app.alochi.org](https://app.alochi.org) · [@alochipoll_bot](https://t.me/alochipoll_bot)
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,typescript,tailwind,flutter,docker,nginx,github&theme=dark" />
-
 </div>
 
 <br/>
 
 | Layer | Technologies |
 |---|---|
-| **Backend** | Python · Django 5 · DRF · Celery · PostgreSQL · Redis |
-| **Frontend** | TypeScript · Next.js · Tailwind CSS |
-| **Mobile** | Flutter · Dart |
+| **Backend** | Python 3.12 · Django 5 · DRF · Celery · PostgreSQL 16 · Redis |
+| **Frontend** | TypeScript · Next.js 14 · Tailwind CSS |
+| **Mobile** | Flutter 3 · Dart |
 | **Bots** | Python · Aiogram 3 · SQLAlchemy |
 | **AI** | FastAPI · Groq API |
-| **Infra** | Docker Compose · Nginx · GitHub Actions |
+| **Infra** | Docker Compose · Nginx · GitHub Actions · Hetzner |
 
 ---
 
@@ -78,9 +77,7 @@ developer = {
 </div>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=rusthype&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-
 </div>
 
 ---
